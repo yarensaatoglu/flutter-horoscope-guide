@@ -1,4 +1,4 @@
-# flutter_horoscope_guide
+# Simple Horoscope Guide
 
 Horoscope Guide
 
